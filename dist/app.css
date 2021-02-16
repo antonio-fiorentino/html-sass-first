@@ -1,0 +1,13 @@
+#super-container {
+  background-color: lime;
+  width: 600px;
+  height: 500px;
+}
+#super-container .content {
+  font-weight: bolder;
+  text-align: center;
+  color: #fff;
+}
+#super-container .content-title {
+  text-decoration: underline;
+}
