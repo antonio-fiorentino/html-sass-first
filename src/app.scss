@@ -1,0 +1,16 @@
+
+#super-container {
+  background-color: lime;
+  width: 600px;
+  height: 500px;
+
+  .content {
+    font-weight: bolder;
+    text-align: center;
+    color: #fff;
+
+    &-title {
+      text-decoration: underline;
+    }
+  }
+}
